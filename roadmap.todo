@@ -11,7 +11,13 @@ Criação e Exibição do componente que adiciona/cria um novo contato:
         ✔ Criar um componente Cadastrar @done(21-10-14 09:45)
         ✔ Criar um componente Home para conter menu, create contatos e lista de contatos @done(21-10-14 10:55)
         ✔ Fazer navegação entre os componentes @done(21-10-14 10:55)
-
+        ☐ Criar objeto com dados a serem enviados para o endpoint
+        ☐ Criar um serviço auth
+        ☐ Dentro do serviço, criar método que vai enviar dados para cadastro
+        ☐ Enviar os dados do cadastro ao endpoint
+        ☐ Tratar o retorno
+        ☐ Mostrar mensagem de erro quando senha e confirmação não forem iguais
+        
 
 Archive:
   ✔ Crie uma pasta "img" dentro da pasta /src/assets/ @done(21-08-30 10:19) @project(Aparência geral)

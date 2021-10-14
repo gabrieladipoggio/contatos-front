@@ -6,6 +6,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./cadastrar.component.css']
 })
 export class CadastrarComponent implements OnInit {
+  nome = '';
+  email = '';
+  senha = '';
+  conf = '';
+  
 
   constructor() { }
 
